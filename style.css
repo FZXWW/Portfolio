@@ -140,7 +140,6 @@ section {
               0 0 50px var(--main-color),
               0 0 100px var(--main-color);
 }
-
 .social-icons a{
   display: inline-flex;
   justify-content: center;
