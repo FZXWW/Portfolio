@@ -321,8 +321,3 @@ section {
 .project-card p{
   font-size: 1.6rem;
 }
-.project-card .special-img{
-  width: 400px;
-  object-fit: cover;
-  max-width: none;
-}
